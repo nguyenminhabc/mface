@@ -1,0 +1,113 @@
+@media only screen and (min-width: 740px) and (max-width: 1023px){
+	*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+body{
+	width: auto;
+	height: auto;
+}
+.img{
+	text-align: center;
+}
+.img1 {
+	padding-top: 10px;
+}
+
+.email{
+	text-align: center;
+}
+.tk{
+	width: 410px;
+	height: 40px;
+	border-radius: 4px;
+	border: 1px solid #f5f6f7 ;
+	text-indent:15px;
+	font-size: small;
+	background:#f5f6f7;
+}
+.passs{
+	text-align: center;
+	padding:5px;
+}
+.pass{
+	width: 410px;
+	height: 40px;
+	border-radius: 4px;
+	border: 7px;
+	text-indent:15px;
+	font-size: small;
+	background:rgb(245,246,247);
+}
+.dangnhap{
+	text-align: center;
+	padding :12px ;
+}
+.login{
+	width:410px;
+	height: 40px;
+	background: rgb(24,119,242);
+	color: #f8f8f8;
+	font-weight: bold;
+	font-size: medium;
+	border: 1px;
+	border-radius: 5px ;
+}
+.quenmk{
+	text-align: center;
+	padding: 14px;
+	font-size: medium;
+}
+.qmk{
+	text-decoration: none;
+	color:rgb(24,119,242);
+}
+.taotk{
+	padding:40px 10px 116px 10px;
+	text-align: center;
+}
+#taotaikhoan{
+    padding-left:15px;
+    padding-right:15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #00a400;
+    border-radius: 3px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+	font-size: 14px;
+	display: inline-block;
+	font-weight: bold;
+	box-sizing: border-box;
+}
+.left1{
+	font-family: Helvetica, Arial, sans-serif;
+	color: #576b95;
+	font-size: 14px;
+	padding-left:200px;
+	padding-right:400px;
+}
+.right1{
+	font-family: Helvetica, Arial, sans-serif;
+	color: #576b95;
+	font-size: 14px;
+	padding-right: 400px;
+	padding-bottom: 40px;
+}
+.ngonngu{
+	display: flex;
+	justify-content: space-between;
+}
+.ba1{
+	text-decoration: none;
+	font-size: 9px;
+	padding-right:17px;
+	/*padding-top: 90px;*/
+	color: #8a8d91;
+}
+#gioithieu span{
+	text-align: center;
+	color: gray;
+}
+}
